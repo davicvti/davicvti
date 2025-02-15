@@ -1,11 +1,12 @@
 <h2 align="left">Hi 👋! My name is davi</h2>
 
-###
+
 
 <div align="center">
 </div>
+</br>
 
-###
+
 
 <div align="left">
   <a href="https://www.instagram.com/the__davi/" target="_blank">
@@ -18,12 +19,12 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
+</br>
 
-###
 
 <img align="right" height="150" src="https://i.gifer.com/XOsX.gif"  />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -37,13 +38,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/davicvti/davicvti/output/snake.svg" alt="Snake animation" />
 
-###
+
+
 
 <div align="center">
 </div>
 
-###
+
